@@ -11,4 +11,4 @@
 - `GSConv.py`
   The implementation for embedding GSConv into our model. The original repo page: https://github.com/AlanLi1997/slim-neck-by-gsconv
 - `MLCA.py`
-  The implementation for embedding MLCA into our model. The original repo page: https://github.com/wandahangFY/MLCA 
+  The implementation for embedding MLCA into our model. The original repo page: https://github.com/wandahangFY/MLCA
